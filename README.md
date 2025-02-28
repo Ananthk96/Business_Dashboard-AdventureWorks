@@ -1,57 +1,90 @@
-# 📊 Power BI Sales and Revenue Dashboard  
+# Power BI Project: Sales and Revenue Dashboard
 
-## 📌 Overview  
-This Power BI dashboard provides a comprehensive analysis of **sales performance, revenue trends, and product metrics** to help businesses make **data-driven decisions**. The first page of this dashboard includes **interactive visualizations** that present key financial metrics and business insights in an intuitive format.
+## Overview
+This Power BI dashboard provides a comprehensive overview of sales performance, revenue, customer insights, and geographical distribution. The dashboard is divided into four pages, each focusing on different aspects of the business.
 
-## 📁 Table of Contents  
-- [Key Metrics](#key-metrics)  
-- [Visuals and Insights](#visuals-and-insights)  
-- [Dashboard Features](#dashboard-features)  
-- [How to Use](#how-to-use)  
-- [Installation & Setup](#installation--setup)  
-- [Sample Data](#sample-data)  
-- [Future Enhancements](#future-enhancements)  
-- [Contributing](#contributing)  
+## Page 1: Sales and Revenue Overview
 
-## 📊 Key Metrics  
-The first page of the dashboard displays the following **key performance indicators (KPIs)**:  
+### Key Metrics
+- **Revenue**: Total revenue generated is $24.91M.
+- **Profit**: Total profit stands at $10.46M.
+- **Total Orders**: 25K orders have been placed.
+- **Return Rate**: The return rate is 2.17%.
 
-- **Total Revenue:** 💰 $24.91M  
-- **Total Profit:** 📈 $10.46M  
-- **Total Orders:** 📦 25K  
-- **Return Rate:** 🔄 2.17%  
+### Visuals and Insights
+1. **Revenue Trend Line Chart**:
+   - Displays monthly revenue from January 2020 to January 2022.
+   - Highlights significant revenue changes over time.
 
-## 📈 Visuals and Insights  
-The dashboard features multiple **interactive charts and tables**, helping users gain insights into business performance:  
+2. **Monthly Performance Metrics**:
+   - **Monthly Revenue**: $1.8M, with a 3.31% increase from the previous month.
+   - **Monthly Orders**: 2,146 orders, showing a slight decrease of 0.88% from the previous month.
+   - **Monthly Returns**: 166 returns, a decrease of 1.78% from the previous month.
 
-### 🔹 **1. Revenue Trend Line Chart**  
-   - Shows **monthly revenue trends** from **January 2020 to January 2022** 📅  
-   - Helps identify significant revenue changes over time 📉📈  
+3. **Orders by Category (Pie Chart)**:
+   - **Accessories**: 17.0%
+   - **Bikes**: 13.9%
+   - **Clothing**: 7.0%
 
-### 🔹 **2. Monthly Performance Metrics** (Card Visuals)  
-   - **Monthly Revenue:** $1.8M (📈 +3.31% from last month)  
-   - **Monthly Orders:** 2,146 orders (📉 -0.88%)  
-   - **Monthly Returns:** 166 returns (📉 -1.78%)  
+4. **Top 10 Products (Table)**:
+   - Lists the top 10 products by orders and revenue.
+   - **Most Ordered Product**: Water Bottle - 30 oz. with 3,983 orders.
+   - **Highest Revenue Product**: Sport-100 Helmet, Red with $73,844.01 in revenue.
 
-### 🔹 **3. Orders by Category (Pie Chart)**  
-   - **Accessories:** 17.0% 👜  
-   - **Bikes:** 13.9% 🚲  
-   - **Clothing:** 7.0% 👕  
+5. **Return Percentage**:
+   - Indicates the return percentage for the most ordered and most returned product types.
 
-### 🔹 **4. Top 10 Products (Table Visualization)**  
-   - **Most Ordered Product:** 🥇 *Water Bottle - 30 oz.* (3,983 orders)  
-   - **Highest Revenue Product:** 💰 *Sport-100 Helmet, Red* ($73,844.01 revenue)  
+### Advantages
+- Provides a clear view of the most profitable and popular products.
+- Helps in identifying trends in monthly revenue and order volumes.
+- Aids in understanding product quality and customer satisfaction through return rate analysis.
 
-### 🔹 **5. Return Percentage Analysis**  
-   - Highlights **return trends** for high-volume products  
-   - Helps in **quality assessment and customer satisfaction monitoring**  
+## Page 2: Customer Insights
 
----
+### Key Metrics
+- **Unique Customers**: 10.6K unique customers.
+- **Revenue per Customer**: $1.5K.
 
-## 🏆 Dashboard Features  
-✔ **Interactive Charts & Tables** – Allows users to drill down into data 📊  
-✔ **Real-Time KPIs** – Tracks revenue, profit, and orders dynamically 📈  
-✔ **Trend Analysis** – Identifies seasonal patterns and business fluctuations 📅  
-✔ **Customer Behavior Insights** – Helps understand purchasing & return habits 🛍️  
-✔ **Data-Driven Decision-Making** – Empowers businesses with actionable insights ✅  
+### Visuals and Insights
+1. **Orders by Income Level**:
+   - **High Income**: 1.5K orders.
+   - **Low Income**: 5.4K orders.
 
+2. **Orders by Occupation**:
+   - **Management**: 2.3K orders.
+   - **Professional**: 4.1K orders.
+   - **Skilled Manual**: 3.2K orders.
+
+3. **Top 100 Customers (Table)**:
+   - Lists the top 100 customers by orders and revenue.
+   - **Top Customer by Revenue**: MR. LARRY VAZQUEZ with $10,394,988 in revenue.
+
+### Advantages
+- Offers insights into customer demographics and purchasing behavior.
+- Helps in identifying high-value customers for targeted marketing strategies.
+
+## Page 3: Geographical Distribution
+
+### Visuals and Insights
+1. **Geographical Map**:
+   - Displays the distribution of sales across different regions including Europe, North America, Pacific, Canada, United Kingdom, United States, France, Germany, Australia, South America, and the Indian Ocean.
+
+### Advantages
+- Provides a visual representation of sales distribution across different regions.
+- Helps in identifying key markets and potential areas for expansion.
+
+## Page 4: Product Performance Drill-Through
+
+### Visuals and Insights
+1. **Gauge Charts**:
+   - **Orders**: Measures the performance of orders for the selected product.
+   - **Revenue**: Measures the revenue generated by the selected product.
+   - **Returns**: Measures the return rate for the selected product.
+
+### Advantages
+- Allows for detailed analysis of individual product performance.
+- Helps in identifying underperforming products and areas for improvement.
+- Provides a quick and intuitive way to assess key performance indicators (KPIs) for specific products.
+
+## Usage
+This dashboard is designed for business analysts and decision-makers to monitor sales performance, identify trends, understand customer behavior, and make data-driven decisions.

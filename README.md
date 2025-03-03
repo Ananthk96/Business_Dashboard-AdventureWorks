@@ -29,7 +29,7 @@ This Power BI dashboard provides a comprehensive overview of sales performance, 
 4. **Top 10 Products (Table)**:
    - Lists the top 10 products by orders and revenue.
    - **Most Ordered Product**: Water Bottle - 30 oz. with 3,983 orders.
-   - **Highest Revenue Product**: Sport-100 Helmet, Red with $73,844.01 in revenue.
+   - **Highest Revenue Product**: Fender set-Mountain, with $87,040.80 in revenue.
 
 5. **Return Percentage**:
    - Indicates the return percentage for the most ordered and most returned product types.
@@ -57,7 +57,6 @@ This Power BI dashboard provides a comprehensive overview of sales performance, 
 
 3. **Top 100 Customers (Table)**:
    - Lists the top 100 customers by orders and revenue.
-   - **Top Customer by Revenue**: MR. LARRY VAZQUEZ with $10,394,988 in revenue.
 
 ### Advantages
 - Offers insights into customer demographics and purchasing behavior.

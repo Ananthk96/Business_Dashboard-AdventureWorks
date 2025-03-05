@@ -89,7 +89,7 @@ This Power BI dashboard provides a comprehensive overview of sales performance, 
 - Use the navigation buttons on the ribbon to navigate to different pages
 ![Screenshot 2025-03-03 190310](https://github.com/user-attachments/assets/857e67c2-b832-43bc-bc65-9b668e36573a)
 
-- Use the drill through feature by right clicking on the product that you want to see datails for and utilise the DRILL THROUGH functionality.
+- Use the drill through feature from within the matrix on Page 1, by right clicking on the product that you want to see datails for and utilise the DRILL THROUGH functionality.
 
   ![image](https://github.com/user-attachments/assets/d9842cbf-104c-40c0-9742-ed0dafda1d1c)
 

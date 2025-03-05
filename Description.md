@@ -1,6 +1,6 @@
 # Sales and Revenue Dashboard - Power BI Project
 
-This repository contains a comprehensive Power BI dashboard designed to analyze sales performance, revenue, customer insights, and geographical distribution. The dashboard includes four pages:
+This repository contains a comprehensive Power BI dashboard designed to analyze sales performance, revenue, customer insights, and geographical distribution. It uses the "AdventureWorks" dataset, which is a sample database provided by Microsoft, representing a fictional company called "Adventure Works Cycles" which manufactures and sells bicycles and related products. The dashboard includes four pages:
 
 1. **Sales and Revenue Overview**: Visualizes key metrics such as total revenue, profit, orders, and return rates, along with monthly trends and top products.
 2. **Customer Insights**: Provides detailed analysis of customer demographics, income levels, occupations, and top customers by revenue.
